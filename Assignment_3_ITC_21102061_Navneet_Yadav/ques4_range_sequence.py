@@ -10,7 +10,7 @@ e) range (5, 3)
 """
 # a)
 print("Sequence of number generated (a): ")
-for a in range(15,5,-2):
+for a in range(5):
     print(a)
 
 # b)
